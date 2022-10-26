@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anhsirk0&count_private=true&theme=dracula&showicons=true)]()
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anhsirk0&langs_count=10&theme=dracula&layout=compact)]()
+  <img height=200 src="https://github-readme-stats.vercel.app/api/?username=anhsirk0&count_private=true&theme=dracula&showicons=true" alt="Anhsirk0's Github Stats" />
+  <img height=200 src="[https://github-readme-stats.vercel.app/api/?username=anhsirk0&count_private=true&theme=dracula&showicons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=anhsirk0&langs_count=10&theme=dracula&layout=compact)" alt="Anhsirk0's Github Language Stats" />
 </div>
