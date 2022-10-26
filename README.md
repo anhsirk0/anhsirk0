@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anhsirk0&count_private=true&theme=dracula&showicons=true)]()
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anhsirk0&langs_count=10&theme=dracula&layout=compact)]()
-
+</div>
