@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I have moved all my Repos to codeberg.org/anhsirk0.
+### Most of my projects/configs will be available here, but will not be updated anymore.
 
 <!--
 **anhsirk0/anhsirk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
