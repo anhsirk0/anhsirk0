@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+moved to https://codeberg.org/anhsirk0
+New/Updated projects will be available on Codeberg.
 
 <div align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api/?username=anhsirk0&count_private=true&theme=tokyonight&showicons=true" alt="Anhsirk0's Github Stats" />
