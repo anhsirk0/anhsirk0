@@ -18,5 +18,5 @@ New/Updated projects will be available on Codeberg.
 
 <div align="center">
   <img height=250 src="https://github-readme-stats.vercel.app/api/?username=anhsirk0&count_private=true&theme=tokyonight&showicons=true" alt="Anhsirk0's Github Stats" />
-  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhsirk0&theme=tokyonight&exclude_repo=CS50ai-2020,CS50web-2020,django-projects" alt="Anhsirk0's most used langs" />
+  <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhsirk0&theme=tokyonight&exclude_repo=CS50ai-2020,CS50web-2020,django-projects" alt="Anhsirk0's most used 5 langs" />
 </div>
